@@ -1,0 +1,245 @@
+Added Component: Designator=*?(LDR)
+Added Component: Designator=*?(LDR)
+Added Component: Designator=*?(LDR)
+Added Component: Designator=*?(LDR)
+Added Component: Designator=*?(LDR)
+Added Component: Designator=*?(LDR)
+Added Component: Designator=*?(LDR)
+Added Component: Designator=*?(LDR)
+Added Component: Designator=*?(LDR)
+Added Component: Designator=*?(LDR)
+Added Component: Designator=*?(LDR)
+Added Component: Designator=*?(LDR)
+Added Component: Designator=*?(LDR)
+Added Component: Designator=*?(LDR)
+Added Component: Designator=*?(LDR)
+Added Component: Designator=*(HEADER 8)
+Added Component: Designator=*(LDR)
+Added Component: Designator=LED?(MY_LED_SMD)
+Added Component: Designator=LED?(MY_LED_SMD)
+Added Component: Designator=LED?(MY_LED_SMD)
+Added Component: Designator=LED?(MY_LED_SMD)
+Added Component: Designator=LED?(MY_LED_SMD)
+Added Component: Designator=LED?(MY_LED_SMD)
+Added Component: Designator=LED?(MY_LED_SMD)
+Added Component: Designator=LED?(MY_LED_SMD)
+Added Component: Designator=LED?(MY_LED_SMD)
+Added Component: Designator=LED?(MY_LED_SMD)
+Added Component: Designator=LED?(MY_LED_SMD)
+Added Component: Designator=LED?(MY_LED_SMD)
+Added Component: Designator=LED?(MY_LED_SMD)
+Added Component: Designator=LED?(MY_LED_SMD)
+Added Component: Designator=LED?(MY_LED_SMD)
+Added Component: Designator=LED?(MY_LED_SMD)
+Added Component: Designator=R?(MY_RES_SMD_1206)
+Added Component: Designator=R?(MY_RES_SMD_1206)
+Added Component: Designator=R?(MY_RES_SMD_1206)
+Added Component: Designator=R?(MY_RES_SMD_1206)
+Added Component: Designator=R?(MY_RES_SMD_1206)
+Added Component: Designator=R?(MY_RES_SMD_1206)
+Added Component: Designator=R?(MY_RES_SMD_1206)
+Added Component: Designator=R?(MY_RES_SMD_1206)
+Added Component: Designator=R?(MY_RES_SMD_1206)
+Added Component: Designator=R?(MY_RES_SMD_1206)
+Added Component: Designator=R?(MY_RES_SMD_1206)
+Added Component: Designator=R?(MY_RES_SMD_1206)
+Added Component: Designator=R?(MY_RES_SMD_1206)
+Added Component: Designator=R?(MY_RES_SMD_1206)
+Added Component: Designator=R?(MY_RES_SMD_1206)
+Added Component: Designator=R?(MY_RES_SMD_1206)
+Added Component: Designator=R?(MY_RES_SMD_1206)
+Added Component: Designator=R?(MY_RES_SMD_1206)
+Added Component: Designator=R?(MY_RES_SMD_1206)
+Added Component: Designator=R?(MY_RES_SMD_1206)
+Added Component: Designator=R?(MY_RES_SMD_1206)
+Added Component: Designator=R?(MY_RES_SMD_1206)
+Added Component: Designator=R?(MY_RES_SMD_1206)
+Added Component: Designator=R?(MY_RES_SMD_1206)
+Added Component: Designator=R?(MY_RES_SMD_1206)
+Added Component: Designator=R?(MY_RES_SMD_1206)
+Added Component: Designator=R?(MY_RES_SMD_1206)
+Added Component: Designator=R?(MY_RES_SMD_1206)
+Added Component: Designator=R?(MY_RES_SMD_1206)
+Added Component: Designator=R?(MY_RES_SMD_1206)
+Added Component: Designator=R?(MY_RES_SMD_1206)
+Added Component: Designator=R?(MY_RES_SMD_1206)
+Added Component: Designator=U?(*SOIC-24_74HC4067(Primary))
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/74HC4067/Nexperia/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "74HC4067"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/74HC4067/Nexperia/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ADD0 Pin=*-8
+Added Pin To Net: NetName=ADD0 Pin=U?-P10
+Added Net: Name=ADD0
+Added Pin To Net: NetName=ADD1 Pin=*-7
+Added Pin To Net: NetName=ADD1 Pin=U?-P11
+Added Net: Name=ADD1
+Added Pin To Net: NetName=ADD2 Pin=*-6
+Added Pin To Net: NetName=ADD2 Pin=U?-P14
+Added Net: Name=ADD2
+Added Pin To Net: NetName=ADD3 Pin=*-5
+Added Pin To Net: NetName=ADD3 Pin=U?-P13
+Added Net: Name=ADD3
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-2
+Added Pin To Net: NetName=GND Pin=*-2
+Added Pin To Net: NetName=GND Pin=*?-2
+Added Pin To Net: NetName=GND Pin=*?-2
+Added Pin To Net: NetName=GND Pin=*?-2
+Added Pin To Net: NetName=GND Pin=*?-2
+Added Pin To Net: NetName=GND Pin=*?-2
+Added Pin To Net: NetName=GND Pin=*?-2
+Added Pin To Net: NetName=GND Pin=*?-2
+Added Pin To Net: NetName=GND Pin=*?-2
+Added Pin To Net: NetName=GND Pin=*?-2
+Added Pin To Net: NetName=GND Pin=*?-2
+Added Pin To Net: NetName=GND Pin=*?-2
+Added Pin To Net: NetName=GND Pin=*?-2
+Added Pin To Net: NetName=GND Pin=*?-2
+Added Pin To Net: NetName=GND Pin=*?-2
+Added Pin To Net: NetName=GND Pin=*?-2
+Added Pin To Net: NetName=GND Pin=LED?-2
+Added Pin To Net: NetName=GND Pin=LED?-2
+Added Pin To Net: NetName=GND Pin=LED?-2
+Added Pin To Net: NetName=GND Pin=LED?-2
+Added Pin To Net: NetName=GND Pin=LED?-2
+Added Pin To Net: NetName=GND Pin=LED?-2
+Added Pin To Net: NetName=GND Pin=LED?-2
+Added Pin To Net: NetName=GND Pin=LED?-2
+Added Pin To Net: NetName=GND Pin=LED?-2
+Added Pin To Net: NetName=GND Pin=LED?-2
+Added Pin To Net: NetName=GND Pin=LED?-2
+Added Pin To Net: NetName=GND Pin=LED?-2
+Added Pin To Net: NetName=GND Pin=LED?-2
+Added Pin To Net: NetName=GND Pin=LED?-2
+Added Pin To Net: NetName=GND Pin=LED?-2
+Added Pin To Net: NetName=GND Pin=LED?-2
+Added Pin To Net: NetName=GND Pin=U?-P12
+Added Pin To Net: NetName=GND Pin=U?-P15
+Added Net: Name=GND
+Added Pin To Net: NetName=NetLED?_1 Pin=LED?-1
+Added Pin To Net: NetName=NetLED?_1 Pin=R?-2
+Added Net: Name=NetLED?_1
+Add Net: Net with name "NetLED?_1" already exists
+Add Net: Net with name "NetLED?_1" already exists
+Add Net: Net with name "NetLED?_1" already exists
+Add Net: Net with name "NetLED?_1" already exists
+Add Net: Net with name "NetLED?_1" already exists
+Add Net: Net with name "NetLED?_1" already exists
+Add Net: Net with name "NetLED?_1" already exists
+Add Net: Net with name "NetLED?_1" already exists
+Add Net: Net with name "NetLED?_1" already exists
+Add Net: Net with name "NetLED?_1" already exists
+Add Net: Net with name "NetLED?_1" already exists
+Add Net: Net with name "NetLED?_1" already exists
+Add Net: Net with name "NetLED?_1" already exists
+Add Net: Net with name "NetLED?_1" already exists
+Add Net: Net with name "NetLED?_1" already exists
+Added Pin To Net: NetName=Out Pin=*-4
+Added Pin To Net: NetName=Out Pin=U?-P1
+Added Net: Name=Out
+Added Pin To Net: NetName=S0 Pin=*-1
+Added Pin To Net: NetName=S0 Pin=R?-2
+Added Pin To Net: NetName=S0 Pin=U?-P9
+Added Net: Name=S0
+Added Pin To Net: NetName=S1 Pin=*?-1
+Added Pin To Net: NetName=S1 Pin=R?-2
+Added Pin To Net: NetName=S1 Pin=U?-P8
+Added Net: Name=S1
+Added Pin To Net: NetName=S2 Pin=*?-1
+Added Pin To Net: NetName=S2 Pin=R?-2
+Added Pin To Net: NetName=S2 Pin=U?-P7
+Added Net: Name=S2
+Added Pin To Net: NetName=S3 Pin=*?-1
+Added Pin To Net: NetName=S3 Pin=R?-2
+Added Pin To Net: NetName=S3 Pin=U?-P6
+Added Net: Name=S3
+Added Pin To Net: NetName=S4 Pin=*?-1
+Added Pin To Net: NetName=S4 Pin=R?-2
+Added Pin To Net: NetName=S4 Pin=U?-P5
+Added Net: Name=S4
+Added Pin To Net: NetName=S5 Pin=*?-1
+Added Pin To Net: NetName=S5 Pin=R?-2
+Added Pin To Net: NetName=S5 Pin=U?-P4
+Added Net: Name=S5
+Added Pin To Net: NetName=S6 Pin=*?-1
+Added Pin To Net: NetName=S6 Pin=R?-2
+Added Pin To Net: NetName=S6 Pin=U?-P3
+Added Net: Name=S6
+Added Pin To Net: NetName=S7 Pin=*?-1
+Added Pin To Net: NetName=S7 Pin=R?-2
+Added Pin To Net: NetName=S7 Pin=U?-P2
+Added Net: Name=S7
+Added Pin To Net: NetName=S8 Pin=*?-1
+Added Pin To Net: NetName=S8 Pin=R?-2
+Added Pin To Net: NetName=S8 Pin=U?-P23
+Added Net: Name=S8
+Added Pin To Net: NetName=S9 Pin=*?-1
+Added Pin To Net: NetName=S9 Pin=R?-2
+Added Pin To Net: NetName=S9 Pin=U?-P22
+Added Net: Name=S9
+Added Pin To Net: NetName=S10 Pin=*?-1
+Added Pin To Net: NetName=S10 Pin=R?-2
+Added Pin To Net: NetName=S10 Pin=U?-P21
+Added Net: Name=S10
+Added Pin To Net: NetName=S11 Pin=*?-1
+Added Pin To Net: NetName=S11 Pin=R?-2
+Added Pin To Net: NetName=S11 Pin=U?-P20
+Added Net: Name=S11
+Added Pin To Net: NetName=S12 Pin=*?-1
+Added Pin To Net: NetName=S12 Pin=R?-2
+Added Pin To Net: NetName=S12 Pin=U?-P19
+Added Net: Name=S12
+Added Pin To Net: NetName=S13 Pin=*?-1
+Added Pin To Net: NetName=S13 Pin=R?-2
+Added Pin To Net: NetName=S13 Pin=U?-P18
+Added Net: Name=S13
+Added Pin To Net: NetName=S14 Pin=*?-1
+Added Pin To Net: NetName=S14 Pin=R?-2
+Added Pin To Net: NetName=S14 Pin=U?-P17
+Added Net: Name=S14
+Added Pin To Net: NetName=S15 Pin=*?-1
+Added Pin To Net: NetName=S15 Pin=R?-2
+Added Pin To Net: NetName=S15 Pin=U?-P16
+Added Net: Name=S15
+Added Pin To Net: NetName=VCC Pin=*-3
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=U?-P24
+Added Net: Name=VCC
+Added Class: Name=Metis 2023 (Schematic) - Shasi
+Added Room: Name=Metis 2023 (Schematic) - Shasi

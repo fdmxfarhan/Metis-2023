@@ -1,0 +1,34 @@
+PCAD Importer Log
+Project : 74HC4067.LibPkg
+
+Section : C:\Users\Farhan\Documents\Metis 2023\PCB Design\Components\74HC4067.lia
+    Section : PCB Library - 74HC4067.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 74HC4067 On Line 473
+            Warning - 1 : Skipping Token attachedSymbol On Line 741
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*SOIC-24][Primary] associated with PCAD Component [74HC4067] has been renamed to PCB FootPrint [*SOIC-24_74HC4067(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - 74HC4067.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 122
+            Warning - 1 : Skipping Token layerContents On Line 127
+            Warning - 1 : Skipping Token layerContents On Line 131
+            Warning - 1 : Skipping Token multiLayer On Line 142
+            Warning - 1 : Skipping Token layerContents On Line 168
+            Warning - 1 : Skipping Token layerContents On Line 175
+            Warning - 1 : Skipping Token layerContents On Line 323
+        EndSection
+
+        Section : Generating SCH Library - 74HC4067.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*SOIC-24][Primary] associated with PCAD Component [74HC4067] has been renamed to PCB FootPrint [*SOIC-24_74HC4067(Primary)].
+        EndSection
+    EndSection
+EndSection

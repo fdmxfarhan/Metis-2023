@@ -1,0 +1,173 @@
+Change Component Designator: OldDesignator=* NewDesignator=LDR0
+Change Component Designator: OldDesignator=*? NewDesignator=*1
+Change Component Designator: OldDesignator=*? NewDesignator=*2
+Change Component Designator: OldDesignator=*? NewDesignator=*3
+Change Component Designator: OldDesignator=*? NewDesignator=*4
+Change Component Designator: OldDesignator=*? NewDesignator=*5
+Change Component Designator: OldDesignator=*? NewDesignator=*6
+Change Component Designator: OldDesignator=*? NewDesignator=*7
+Change Component Designator: OldDesignator=*? NewDesignator=*8
+Change Component Designator: OldDesignator=*? NewDesignator=*9
+Change Component Designator: OldDesignator=*? NewDesignator=*10
+Change Component Designator: OldDesignator=*? NewDesignator=*11
+Change Component Designator: OldDesignator=*? NewDesignator=*12
+Change Component Designator: OldDesignator=*? NewDesignator=*13
+Change Component Designator: OldDesignator=*? NewDesignator=*14
+Change Component Designator: OldDesignator=*? NewDesignator=*15
+Change Component Designator: OldDesignator=LED? NewDesignator=LED1
+Change Component Designator: OldDesignator=LED? NewDesignator=LED2
+Change Component Designator: OldDesignator=LED? NewDesignator=LED3
+Change Component Designator: OldDesignator=LED? NewDesignator=LED4
+Change Component Designator: OldDesignator=LED? NewDesignator=LED5
+Change Component Designator: OldDesignator=LED? NewDesignator=LED6
+Change Component Designator: OldDesignator=LED? NewDesignator=LED7
+Change Component Designator: OldDesignator=LED? NewDesignator=LED8
+Change Component Designator: OldDesignator=LED? NewDesignator=LED9
+Change Component Designator: OldDesignator=LED? NewDesignator=LED10
+Change Component Designator: OldDesignator=LED? NewDesignator=LED11
+Change Component Designator: OldDesignator=LED? NewDesignator=LED12
+Change Component Designator: OldDesignator=LED? NewDesignator=LED13
+Change Component Designator: OldDesignator=LED? NewDesignator=LED14
+Change Component Designator: OldDesignator=LED? NewDesignator=LED15
+Change Component Designator: OldDesignator=LED? NewDesignator=LED16
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Change Component Designator: OldDesignator=R? NewDesignator=R16
+Change Component Designator: OldDesignator=R? NewDesignator=R17
+Change Component Designator: OldDesignator=R? NewDesignator=R18
+Change Component Designator: OldDesignator=R? NewDesignator=R19
+Change Component Designator: OldDesignator=R? NewDesignator=R20
+Change Component Designator: OldDesignator=R? NewDesignator=R21
+Change Component Designator: OldDesignator=R? NewDesignator=R22
+Change Component Designator: OldDesignator=R? NewDesignator=R23
+Change Component Designator: OldDesignator=R? NewDesignator=R24
+Change Component Designator: OldDesignator=R? NewDesignator=R25
+Change Component Designator: OldDesignator=R? NewDesignator=R26
+Change Component Designator: OldDesignator=R? NewDesignator=R27
+Change Component Designator: OldDesignator=R? NewDesignator=R28
+Change Component Designator: OldDesignator=R? NewDesignator=R29
+Change Component Designator: OldDesignator=R? NewDesignator=R30
+Change Component Designator: OldDesignator=R? NewDesignator=R31
+Change Component Designator: OldDesignator=R? NewDesignator=R32
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Net Name : Old Net Name=NetLED?_1 New Net Name=NetLED5_1
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R1-2
+Added Net: Name=NetLED1_1
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R3-2
+Added Net: Name=NetLED2_1
+Added Pin To Net: NetName=NetLED3_1 Pin=LED3-1
+Added Pin To Net: NetName=NetLED3_1 Pin=R5-2
+Added Net: Name=NetLED3_1
+Added Pin To Net: NetName=NetLED4_1 Pin=LED4-1
+Added Pin To Net: NetName=NetLED4_1 Pin=R7-2
+Added Net: Name=NetLED4_1
+Added Pin To Net: NetName=NetLED6_1 Pin=LED6-1
+Added Pin To Net: NetName=NetLED6_1 Pin=R11-2
+Added Net: Name=NetLED6_1
+Added Pin To Net: NetName=NetLED7_1 Pin=LED7-1
+Added Pin To Net: NetName=NetLED7_1 Pin=R13-2
+Added Net: Name=NetLED7_1
+Added Pin To Net: NetName=NetLED8_1 Pin=LED8-1
+Added Pin To Net: NetName=NetLED8_1 Pin=R15-2
+Added Net: Name=NetLED8_1
+Added Pin To Net: NetName=NetLED9_1 Pin=LED9-1
+Added Pin To Net: NetName=NetLED9_1 Pin=R17-2
+Added Net: Name=NetLED9_1
+Added Pin To Net: NetName=NetLED10_1 Pin=LED10-1
+Added Pin To Net: NetName=NetLED10_1 Pin=R19-2
+Added Net: Name=NetLED10_1
+Added Pin To Net: NetName=NetLED11_1 Pin=LED11-1
+Added Pin To Net: NetName=NetLED11_1 Pin=R21-2
+Added Net: Name=NetLED11_1
+Added Pin To Net: NetName=NetLED12_1 Pin=LED12-1
+Added Pin To Net: NetName=NetLED12_1 Pin=R23-2
+Added Net: Name=NetLED12_1
+Added Pin To Net: NetName=NetLED13_1 Pin=LED13-1
+Added Pin To Net: NetName=NetLED13_1 Pin=R25-2
+Added Net: Name=NetLED13_1
+Added Pin To Net: NetName=NetLED14_1 Pin=LED14-1
+Added Pin To Net: NetName=NetLED14_1 Pin=R27-2
+Added Net: Name=NetLED14_1
+Added Pin To Net: NetName=NetLED15_1 Pin=LED15-1
+Added Pin To Net: NetName=NetLED15_1 Pin=R29-2
+Added Net: Name=NetLED15_1
+Added Pin To Net: NetName=NetLED16_1 Pin=LED16-1
+Added Pin To Net: NetName=NetLED16_1 Pin=R31-2
+Added Net: Name=NetLED16_1
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component *1 LDR
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component *2 LDR
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component *3 LDR
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component *4 LDR
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component *5 LDR
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component *6 LDR
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component *7 LDR
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component *9 LDR
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component *10 LDR
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component *11 LDR
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component *12 LDR
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component *13 LDR
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component *14 LDR
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component *15 LDR
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component LDR0 LDR
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component LED1 LED SMD
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component LED2 LED SMD
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component LED4 LED SMD
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component LED5 LED SMD
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component LED6 LED SMD
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component LED7 LED SMD
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component LED8 LED SMD
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component LED9 LED SMD
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component LED10 LED SMD
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component LED11 LED SMD
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component LED12 LED SMD
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component LED13 LED SMD
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component LED14 LED SMD
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component LED15 LED SMD
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component LED16 LED SMD
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component R1 10K
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component R2 10K
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component R3 10K
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component R4 10K
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component R5 10K
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component R6 10K
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component R7 10K
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component R9 10K
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component R10 10K
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component R11 10K
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component R12 10K
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component R13 10K
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component R14 10K
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component R15 10K
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component R16 10K
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component R17 10K
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component R18 10K
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component R19 10K
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component R20 10K
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component R21 10K
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component R22 10K
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component R23 10K
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component R24 10K
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component R25 10K
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component R26 10K
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component R27 10K
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component R28 10K
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component R29 10K
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component R30 10K
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component R31 10K
+Added Member To Class: ClassName=Metis 2023 (Schematic) - Shasi Member=Component R32 10K
+Added Room: Name=Metis 2023 (Schematic) - Shasi
