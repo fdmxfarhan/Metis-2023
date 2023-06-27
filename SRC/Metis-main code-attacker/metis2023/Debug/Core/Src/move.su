@@ -1,0 +1,11 @@
+../Core/Src/move.c:11:6:motor	32	static
+../Core/Src/move.c:99:6:motor_without_correction	24	static
+../Core/Src/move.c:158:6:fast_stop	8	static
+../Core/Src/move.c:168:6:move	32	static
+../Core/Src/move.c:176:6:move_without_correction	32	static
+../Core/Src/move.c:183:6:moveForSec	24	static
+../Core/Src/move.c:189:6:spin	16	static
+../Core/Src/move.c:193:6:shoot	8	static
+../Core/Src/move.c:206:6:rotate_and_shoot	8	static
+../Core/Src/move.c:253:6:shift	8	static
+../Core/Src/move.c:295:6:stop	8	static
