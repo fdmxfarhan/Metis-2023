@@ -77,10 +77,19 @@ static void MX_USART2_UART_Init(void);
 
 /* Private user code ---------------------------------------------------------*/
 /* USER CODE BEGIN 0 */
+
+#define Rahman_x 146
+#define Rahman_y 102
+
+#define Rahim_x 167
+#define Rahim_y 121
+
+
+
 int v = 100;
 uint8_t i2c_tx_data[1] = {0};
 uint8_t i2c_rx_data[64];
-int x_robot = 160 , y_robot = 124;
+int x_robot, y_robot; // Inja taghir nade (boro balatar)!!!!!!!!
 uint16_t checksum, signature, x_ball, y_ball, w_goal, h_goal, x_goal, y_goal;
 int ball_angle , ball_dist, is_ball = 0;
 int goal_angle , goal_dist, is_goal = 0;
@@ -94,7 +103,7 @@ int arrived_to_goal = 0, ball_in_kicker = 0;
 int already_shooted = 0, shoot_cnt = 0, mf_cnt = 0, stop_before_shoot_cnt = 0, out_cnt;
 #define LDR_Sens 200
 char look_dir = 'F';
-
+char* robotID;
 
 
 void initGY(){
@@ -433,6 +442,13 @@ void read_sensors(){
 		SSD1306_Puts("Rotate", &Font_7x10, 1);
 	else
 		SSD1306_Puts("Straight", &Font_7x10, 1);
+	SSD1306_GotoXY(64, 10);
+	if(HAL_GPIO_ReadPin(DIP2_GPIO_Port, DIP2_Pin))
+		SSD1306_Puts("Goalkpr", &Font_7x10, 1);
+	else
+		SSD1306_Puts("Forward", &Font_7x10, 1);
+	SSD1306_GotoXY(64, 50);
+	SSD1306_Puts(robotID, &Font_7x10, 1);
 }
 void delay(int sec){
 	for(int i=0; i<sec; i++){
@@ -504,7 +520,7 @@ void shoot_straight(){
 		mf_cnt++;
 	}
 	else{
-		if(goal_angle < 5 || goal_angle > 355) {
+		if(goal_angle < 3 || goal_angle > 357) {
 			fast_stop();
 			shoot();
 		}
@@ -597,7 +613,17 @@ void OUT(){
 	  }
 	}
 }
+void motor_test(){
+	motor_without_correction(100, 0, 0, 0);
+	HAL_Delay(1000);
+	motor_without_correction(0, 1000, 0, 0);
+	HAL_Delay(1000);
+	motor_without_correction(0, 0, 100, 0);
+	HAL_Delay(1000);
+	motor_without_correction(0, 0, 0, 100);
+	HAL_Delay(1000);
 
+}
 
 /* USER CODE END 0 */
 
@@ -649,6 +675,16 @@ int main(void)
 	HAL_Delay(100);
   }
   SSD1306_Init();
+  if(HAL_GPIO_ReadPin(ID_Select_GPIO_Port, ID_Select_Pin)){
+	  robotID = "RAHMAN";
+	  x_robot = Rahman_x;
+	  y_robot = Rahman_y;
+  }else{
+	  robotID = "RAHIM";
+	  x_robot = Rahim_x;
+	  y_robot = Rahim_y;
+  }
+  if(HAL_GPIO_ReadPin(SW3_GPIO_Port, SW3_Pin)) motor_test();
   /* USER CODE END 2 */
 
   /* Infinite loop */
@@ -1024,8 +1060,8 @@ static void MX_GPIO_Init(void)
   GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_LOW;
   HAL_GPIO_Init(GPIOE, &GPIO_InitStruct);
 
-  /*Configure GPIO pins : SW3_Pin SW2_Pin SW1_Pin */
-  GPIO_InitStruct.Pin = SW3_Pin|SW2_Pin|SW1_Pin;
+  /*Configure GPIO pins : SW3_Pin SW2_Pin SW1_Pin ID_Select_Pin */
+  GPIO_InitStruct.Pin = SW3_Pin|SW2_Pin|SW1_Pin|ID_Select_Pin;
   GPIO_InitStruct.Mode = GPIO_MODE_INPUT;
   GPIO_InitStruct.Pull = GPIO_NOPULL;
   HAL_GPIO_Init(GPIOB, &GPIO_InitStruct);

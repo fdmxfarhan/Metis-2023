@@ -107,6 +107,8 @@ void Error_Handler(void);
 #define BLUE_GPIO_Port GPIOB
 #define RED_Pin GPIO_PIN_5
 #define RED_GPIO_Port GPIOB
+#define ID_Select_Pin GPIO_PIN_8
+#define ID_Select_GPIO_Port GPIOB
 /* USER CODE BEGIN Private defines */
 
 /* USER CODE END Private defines */
