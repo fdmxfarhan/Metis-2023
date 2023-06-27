@@ -684,7 +684,7 @@ int main(void)
 	  x_robot = Rahim_x;
 	  y_robot = Rahim_y;
   }
-  if(HAL_GPIO_ReadPin(SW3_GPIO_Port, SW3_Pin)) motor_test();
+//  if(HAL_GPIO_ReadPin(SW3_GPIO_Port, SW3_Pin)) motor_test();
   /* USER CODE END 2 */
 
   /* Infinite loop */
